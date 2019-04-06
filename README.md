@@ -2,6 +2,7 @@
 SimpleAdapter、AlertDialog、XML、ActionMode
 
 1.利用SimpleAdapter实现如下界面效果
+
 ![image](https://github.com/atCY1998/test_UI/blob/master/images/SimpleAdapter.PNG)
 
 2.创建如图所示的自定义对话框
