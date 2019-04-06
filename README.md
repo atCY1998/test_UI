@@ -20,7 +20,7 @@ AlertDialog。
  字体颜色（有红色和黑色这2个选项），
 点击之后设置测试文本的字体
 
-![image](https://github.com/atCY1998/test_UI/blob/master/images/XML.PNG)
+![image](https://github.com/atCY1998/test_UI/blob/master/images/ＸＭＬ.PNG)
 
 4.创建如图模式的上下文菜单
  使用ListView或者ListActivity创建
@@ -28,5 +28,5 @@ List
  为List Item创建ActionMode形式
 的上下文菜单
 
-![image](https://github.com/atCY1998/test_UI/blob/master/images/ActionMode.PNG)
+![image](https://github.com/atCY1998/test_UI/blob/master/images/ＡｃｔｉｏｎＭｏｄｅ.PNG)
 
